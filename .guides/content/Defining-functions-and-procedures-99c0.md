@@ -10,10 +10,10 @@ endfunction                          //This ends the block of code defining the 
 
 Here is an example of a procedure that will multiply the numbers and print the result.
 **Nothing** is returned to the main program.
-``
+```
 procedure multiply(number1, number2)
   product = number1 * number2
   print(product)
 endprocedure
-``
+```
 The procedure prints out the result and nothing is returned to the main program.
