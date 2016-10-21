@@ -1,0 +1,38 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3959730572",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "Give examples of each of the following:",
+   "points": "1",
+   "showValues": true,
+   "text": "A local variable = <<<area>>>\nGlobal variables = <<<triangleBase>>> and <<<triangleHeight>>> and <<<triangleArea>>>\nParameters = <<<base>>> and <<<height>>>",
+   "tokens": {
+    "blank": [
+     "area",
+     "triangleBase",
+     "triangleHeight",
+     "triangleArea",
+     "base",
+     "height"
+    ],
+    "text": [
+     "A local variable = ",
+     0,
+     "\nGlobal variables = ",
+     0,
+     " and ",
+     0,
+     " and ",
+     0,
+     "\nParameters = ",
+     0,
+     " and ",
+     0
+    ]
+   }
+  }
+ }
+]

@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "073a8457-7f4c-dc49-9521-8c99922f4eb6",
+   "title": "Sub programs and structured code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sub-programs-and-structured-code-073a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "58e8e13e-bb9b-3802-0634-a883e90588c5",
+   "title": "Types of sub programs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Types-of-sub-programs-58e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "99c04190-7626-89b0-9388-986171465c8d",
+   "title": "Defining functions and procedures",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Defining-functions-and-procedures-99c0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7834e064-230d-f050-d6fa-ae8de9d27e9c",
+   "title": "Local variables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Local-variables-7834.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "79a05830-0f9a-6bee-ff34-d26b9131f702",
+   "title": "Calling sub programs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Calling-sub-programs-79a0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9d7cf829-e2ad-1aef-519d-304830b65403",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-9d7c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a8a10b99-d855-db33-a559-cf130710f14c",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-a8a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
