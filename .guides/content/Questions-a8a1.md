@@ -18,6 +18,6 @@ print(triangleArea)
 |||guidance
 # Solution
 A local variable = **area**
-Global variables = **triangleBase** and **triangleHeight** and **triangleArea**
+Global variables = **triangleArea** and **triangleBase** and **triangleHeight** 
 Parameters = **base** and **height**
 |||
